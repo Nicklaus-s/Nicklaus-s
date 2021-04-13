@@ -18,3 +18,4 @@ I'm a Lua (Roblox) & JavaScript (node.js & discord.js) Developer that enjoys cre
 ### Github Stats
 
 ![Nicklaus-s' Github Stats](https://github-readme-stats.vercel.app/api?username=Nicklaus-s&show_icons=true&theme=dark)
+![Nicklaus-s' Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicklaus-s)
