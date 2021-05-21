@@ -1,6 +1,6 @@
 👋 **Hello! I'm Nicklaus_s**
 
-I'm a Lua (Roblox) & JavaScript (node.js & discord.js) Developer that enjoys creating Discord bots, and more!
+I'm a Lua (Roblox) & JavaScript (node.js & discord.js) Developer that enjoys creating Discord bots, and more! I also am a full-stack web developer!
 
 💬 Discord || nicklaus#5400
 
@@ -9,7 +9,7 @@ I'm a Lua (Roblox) & JavaScript (node.js & discord.js) Developer that enjoys cre
 ### Experience
 
 - Lua (Roblox)
-- JavaScript (discord.js)
+- JavaScript (Backend Web Development, discord.js)
 - HTML
 - CSS
 
